@@ -27,14 +27,4 @@ javascript:(function() {
         alert("Page JID: " + chunk[1]);
     }
 
-})();}
-
-})();[2].split('=');
-        //window.location = chunk[1];
-        console.log(chunk[1]);
-    }
-
-})();
-    }
-
 })();
